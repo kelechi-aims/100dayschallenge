@@ -96,3 +96,4 @@ console.log(fruits);
 const veg = fruits.slice(4, -1);
 console.log(veg);
 console.log(fruits);
+console.log(fruits.slice());
